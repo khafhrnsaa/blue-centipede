@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  canvas {
+    background-color: black;
+  }
+  
+  /* Style for the centipede's body */
+  .centipede-body {
+    stroke: blue;
+    stroke-width: 2;
+  }
+  
+  /* Style for the centipede's head */
+  .centipede-head {
+    fill: lightblue;
+    stroke: blue;
+    stroke-width: 2;
+  }
+  
+  /* Style for the centipede's legs */
+  .centipede-leg {
+    stroke: skyblue;
+    stroke-width: 1;
+  }
